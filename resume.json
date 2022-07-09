@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "theme": "Paper"
+  },
+  "basics": {
+    "name": "Ivaylo Iliev",
+    "label": "Software Engineer",
+    "picture": "https://cv.ranapat.org/me.jpg",
+    "email": "ivo@ranapat.org",
+    "phone": "+49 176 696 19793",
+    "website": "http://ranapat.org",
+    "summary": "Software Engineer. Experienced in mobile and game development. Skilled in backend and fronted. Feeling perfectly comfortable in Gnu / Linux.",
+    "location": {
+      "address": "Kastanienallee 63a",
+      "postalCode": "10119",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Berlin"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ranapat",
+        "url": "https://github.com/ranapat"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ranapat",
+        "url": "https://www.linkedin.com/in/ranapat/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Akelius Residential Property AB",
+      "position": "Mobile Architect / Teamlead",
+      "website": "https://languages.akelius.com/",
+      "startDate": "2018-03-01",
+      "_endDate": "undefined",
+      "summary": "Responsible for the Android projects. Used technologies: Java / Kotlin",
+      "highlights": [
+        "Android application architecture",
+        "Teamlead",
+        "Managing build pipeline",
+        "Managing release cycles",
+        "Supporting backend APIs",
+        "Supporting infrastructure architecture"
+      ]
+    },
+    {
+      "company": "Kisura",
+      "position": "Senior Fullstack Developer",
+      "website": "https://kisura.de/",
+      "startDate": "2016-10-01",
+      "endDate": "2018-03-01",
+      "summary": "Developing and supporting e-commerce shopping platform. Used technologies: PHP / Symfony / Doctrine / JavaScript / Angular 1.x / React / MySQL / MongoDB / Vagrant / Ansible",
+      "highlights": [
+        "Creating and maintaining web based solutions",
+        "Creating and maintaining backend apis",
+        "Creating and maintaining DB",
+        "Creating and maintaining frontend"
+      ]
+    },
+    {
+      "company": "Peak Games",
+      "position": "Lead Game Developer / Development Team Lead",
+      "website": "https://peak.com/",
+      "startDate": "2012-08-01",
+      "endDate": "2016-07-01",
+      "summary": "Working on multiplayer board and casino games. Techically responsible for game development from idea to release. Used technologies: ActionScript 3 / Java / Netty",
+      "highlights": [
+        "Responsible for the games from the stage of idea till release",
+        "Responsible for estimation and deployment",
+        "Responsible for the game frameworks, infrastructure, db, implementation and stability",
+        "Optimizing and handling AB tests"
+      ]
+    },
+    {
+      "company": "Nokia",
+      "position": "Consultant",
+      "website": "https://nokia.com/",
+      "startDate": "2010-10-01",
+      "endDate": "2012-06-01",
+      "summary": "Released Nokia Maps for N9 and worked on variations of the product for alternative platforms. Used technologies: C++ / Qt / QML / JavaScript",
+      "highlights": [
+        "Creating architecture for the Maps applications",
+        "Creating abstraction layers above native map rendering",
+        "Creating business model flow frameworks",
+        "Creating the external application framework and public API",
+        "Responsible for the release and bug fixing"
+      ]
+    },
+    {
+      "company": "B.E.R.S",
+      "position": "Development Team Lead / Project Architect",
+      "website": "https://www.gedys-intraware.de/",
+      "startDate": "2009-06-01",
+      "endDate": "2010-10-01",
+      "summary": "LotusDomino xPages Web application, Blackberry Lotus Domino data migration. Used technologies: Lotus Domino 8.5.1 / xPages / Java / JavaScript / PHP / MySQL",
+      "highlights": [
+        "Responsible for the office in Bulgaria",
+        "Creating xPages / Lotus Domino web and desktop applications",
+        "Creating and controlling estimations, specifications and development plans",
+        "Creating backend and frontend architecture",
+        "Creating and managing the teams"
+      ]
+    },
+    {
+      "company": "DotMedia",
+      "position": "Development Lead / Project Architect",
+      "website": "https://dotmedia.bg/",
+      "startDate": "2005-03-01",
+      "endDate": "2009-06-01",
+      "summary": "Responsible for the development processes and projects. Main responsible for estimations and project delivery. Used technologies: PHP / JavaScript / Flash / Flex / C# / Java",
+      "highlights": [
+        "Controlling technical development and internal processes",
+        "Estimation of projects, specifications and planning",
+        "Infrastructure, backend and frontend development",
+        "Team management"
+      ]
+    },
+    {
+      "company": "Technical University Varna",
+      "position": "Lecturer / Seminar Tutor",
+      "website": "http://www2.tu-varna.bg/tu-varna/",
+      "startDate": "2006-09-01",
+      "endDate": "2010-10-01",
+      "summary": "Seminar tutor. Responsible for the final exams. Used technologies: C#",
+      "highlights": [
+        "Weekly exercies",
+        "Final Exams"
+      ]
+    },
+    {
+      "company": "National Academy for Software Development",
+      "position": "Lecturer / Seminar Tutor",
+      "website": "https://softuni.bg/",
+      "startDate": "2006-03-01",
+      "endDate": "2007-04-01",
+      "summary": "Seminar tutor. Responsible for the final exams. Used technologies: Java",
+      "highlights": [
+        "Weekly exercies",
+        "Final Exams"
+      ]
+    },
+    {
+      "company": "Pi Consult Bg",
+      "position": "Software Developer",
+      "website": "https://www.brandmaker.com/",
+      "startDate": "2003-06-01",
+      "endDate": "2005-03-01",
+      "summary": "Software Developer. Used technologies: Java / PHP / JavaScript / C++ / MySQL / MsSQL",
+      "highlights": [
+        "Web based systems",
+        "Access control wrapper on top of MySQL / MsSQL",
+        "Game development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University Varna",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2004-09-01",
+      "endDate": "2006-06-01",
+      "courses": [
+        "Thesis: PHP 5 Application Library for Remoting and Remote Process Control. PHP 5 Application Library for Image Handling Abstraction over ImageMagick and GD2.",
+        "Algorithms",
+        "Computer architecture",
+        "Communication and cryptography",
+        "Computer graphics and algorithms, basics in electricity and computer hardware.",
+        "Basics in electricity and computer hardware.",
+        "Java",
+        "C#"
+      ]
+    },
+    {
+      "institution": "Technical University Varna",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-01",
+      "endDate": "2004-06-01",
+      "courses": [
+        "Thesis: PHP 4 Application Framework for automation procession of pre-elementary operations and automation of processes and CRM workflows.",
+        "Algorithms",
+        "Computer architecture",
+        "Communication and cryptography",
+        "Computer graphics and algorithms, basics in electricity and computer hardware.",
+        "Basics in electricity and computer hardware.",
+        "Java",
+        "C#"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best E-commerce site",
+      "date": "2005-01-01",
+      "awarder": "Bulgarian Web Association",
+      "summary": "DotMedia.bg won Award for the best e-commerce website for 2005"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": [
+        "Android",
+        "Java",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Master",
+      "keywords": [
+        "Adobe Flash",
+        "ActionScript",
+        "Java"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Very good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Nicon",
+        "Portraits"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Miroslav Nikolov",
+      "reference": "Ivo is the most advanced developer I have faced during my career. What is even better - I built most of my programming foundation based on his advices."
+    },
+    {
+      "name": "Alexander Dorn",
+      "reference": "During my work with Ivailo, I slowly came to realize that he is the actual backbone that made everything work. He works like the chassis of a car, holding everything together and fortifying all weak areas at once, thus allowing the strengths of other team actors to truly prosper. I still value his priceless work and contribution for the project."
+    }
+  ]
+}
